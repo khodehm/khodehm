@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react SPA <br>👯 I’m looking to collaborate on React <br>🤝 I’m looking for help with Angular <br>🌱 I’m currently learning React <br>💬 Ask me about React <br>⚡ Fun fact 
+🔭 I’m currently working with react <br>👯 I’m looking to collaborate on React <br>🤝 I’m looking for help with Angular <br>🌱 I’m currently learning React <br>💬 Ask me about React <br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
