@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=khodehm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Stay%20hungry,%20stay%20foolish.&author=Steve%20Jobs)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khodehm&limit=5&theme=dark&combine_all_yearly_contributions=true)
