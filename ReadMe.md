@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with react <br>👯 I’m looking to collaborate on React <br>🤝 I’m looking for help with Angular <br>🌱 I’m currently learning React <br>💬 Ask me about React <br>⚡ Fun fact 
+🔭 I’m currently working with React Next Golang <br>👯 I’m looking to collaborate on React , Next, Golang <br>🤝 I’m looking for help with Advanced Golang, Next <br>🌱 I’m currently learning Advanced Golang  <br>💬 Ask me about React, Next, Golang <br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
